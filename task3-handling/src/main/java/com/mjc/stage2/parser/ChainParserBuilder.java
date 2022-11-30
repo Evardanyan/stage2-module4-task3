@@ -22,6 +22,7 @@ public class ChainParserBuilder {
                 abstractTextParser.setNextParser(parsers.get(i));
             }
         }
+
         return abstractTextParser;
     }
 }

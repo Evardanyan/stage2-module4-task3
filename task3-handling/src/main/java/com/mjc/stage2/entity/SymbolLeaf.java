@@ -1,5 +1,6 @@
 package com.mjc.stage2.entity;
 
+
 public class SymbolLeaf extends AbstractTextComponent{
 
     private char value;
